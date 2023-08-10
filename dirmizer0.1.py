@@ -32,7 +32,7 @@ while loop == 1:
     except OSError:
        print()
     
-    
+   
     Pasta1 = 0#rebe o valor de todos os arquivos dentro da pata
     folderpath = "/home/messias/k8"#caminho da pasta para verificar o tamanho dos arquivos
 
@@ -60,4 +60,4 @@ while loop == 1:
    
   
     
-    
+    if input
