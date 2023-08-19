@@ -65,3 +65,10 @@ não inicie o script antes de configurar os caminhos e memoria ou ele vai dar er
 ![WinError 3](https://github.com/solitario001/dir-atomizer/assets/36905390/f19a8ec8-9261-44a9-a03f-2edcafb13c4d)
 
 
+Demonstração de Funcionamento
+
+aqui quero quê move a pasta toda vez quê atingir 60gb então se eu quero quê ele move quando tiver 60gb eu preciso de colocar o dobro quê é 120gb e converter para 120000000000 Bytes porquê o script só faz leitura de memoria como bytes, 120000000000 Bytes para o script é 60gb. 
+
+
+https://github.com/solitario001/dir-atomizer/assets/36905390/23adf78b-bebb-4099-81f8-75baa3fa37f1
+
