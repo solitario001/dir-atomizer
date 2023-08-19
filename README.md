@@ -1,7 +1,7 @@
 # dir-atomizer
 
-Small script that will move the chosen source folder when it reaches x size to the destination folder, when the folder reaches x size again the script will delete the old moved folder and move the new source folder again.,
-I created this program in order to move the recorded videos from the surveillance camera to a new location when it reached size x and when it reached size again it would delete the old videos for me. the time to delete the old videos it 's time to reach x size again , so if I move the files with 10GB when the folder reaches 10GB again , it will delete the old files automatically
+<br />Small script that will move the chosen source folder when it reaches x size to the destination folder, when the folder reaches x size again the script will delete the old moved folder and move the new source folder again.,<br /> 
+<br />I created this program in order to move the recorded videos <br />from the surveillance camera to a new location when it reached size x and when it reached size again it would delete the old videos for me.the time to delete the old videos it 's time to reach x size again , so if I move the files with 10GB when the folder reaches 10GB again , it will delete the old files automatically
 
 
 Requirements:
@@ -25,7 +25,7 @@ Install Pillow with pip Windows:
 
 
 
-the script works by reading 3 .txt files src,dst,memory.
+The script works by reading 3 .txt files src,dst,memory.
 
 ![Captura de tela de 2023-08-18 18-29-22](https://github.com/solitario001/dir-atomizer/assets/36905390/267fa9bd-4f9e-414d-b712-ba3465c2442f)
 
@@ -33,21 +33,21 @@ src.txt is where the path of the source folder you want to move is saved.
 ![Captura de tela de 2023-08-17 17-47-11](https://github.com/solitario001/dir-atomizer/assets/36905390/72b2d87e-771e-4c20-9e8a-0c76231164a6)
 ![Captura de tela de 2023-08-18 18-40-33](https://github.com/solitario001/dir-atomizer/assets/36905390/c72fcb46-89b1-421a-af36-1ace7c7f7b0f)
 
-dst.txt is where files moved from the src.txt path's source folder go.
+dst.txt Is where files moved from the src.txt path's source folder go.
 ![Captura de tela de 2023-08-17 17-48-51](https://github.com/solitario001/dir-atomizer/assets/36905390/2f82114b-f9d4-4926-b39d-55a5cfeb9892)
 ![Captura de tela de 2023-08-18 19-07-37](https://github.com/solitario001/dir-atomizer/assets/36905390/021081dc-88fc-45f5-b829-e3fe130754e4)
 
-memory.txt here you save the x amount of data you want to move the folder, example: if I put 60gb every time I reach 60gb it will move the folder. Attention the program works by reading the memory in bytes not in Megabytes or Gigabytes, so if I want it to move when it reach 60gb I need to put twice as much which is 120gb and convert it to 120000000000 Bytes
+memory.txt Here you save the x amount of data you want to move the folder, example: if I put 60gb every time I reach 60gb it will move the folder. Attention the program works by reading the memory in bytes not in Megabytes or Gigabytes, so if I want it to move when it reach 60gb I need to put twice as much which is 120gb and convert it to 120000000000 Bytes
 
 ![Captura de tela de 2023-08-17 17-43-26](https://github.com/solitario001/dir-atomizer/assets/36905390/7bf5e19c-000d-453e-a859-1ba556d9d8c3)
 ![Captura de tela de 2023-08-18 19-33-07](https://github.com/solitario001/dir-atomizer/assets/36905390/1469b164-86ba-4d6d-8021-cf9a4046b034)
 
 
-the gui is completely optional, it only serves to create the paths and memory .txt you can create these files yourself with your settings,.
+The gui is completely optional, it only serves to create the paths and memory .txt you can create these files yourself with your settings,.
 
-the gui will vary the buttons according to the windows version, i need to create a separate version for each operating system version to avoid discrepancy in the gui layout.
+The gui will vary the buttons according to the windows version, i need to create a separate version for each operating system version to avoid discrepancy in the gui layout.
 
-the script will run in stealth mode, you will only be able to view it in the task manager, if it gives an error it will close silently, there will be no sound or visual warning of operation, because I did not want it to be visible to prying eyes while it's running and also doesn't bother the end user because it doesn't minimize to the tray.
+The script will run in stealth mode, you will only be able to view it in the task manager, if it gives an error it will close silently, there will be no sound or visual warning of operation, because I did not want it to be visible to prying eyes while it's running and also doesn't bother the end user because it doesn't minimize to the tray.
 
 ![Sem título](https://github.com/solitario001/dir-atomizer/assets/36905390/11504856-15d4-4745-8ac7-4c90d92d859f)
 
