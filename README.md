@@ -52,14 +52,14 @@ The script will run in stealth mode, you will only be able to view it in the tas
 ![Sem título](https://github.com/solitario001/dir-atomizer/assets/36905390/11504856-15d4-4745-8ac7-4c90d92d859f)
 
 
-Atenção> Usuarios Windows:
+Attention > Windows Users:
 
-o script não vai mover a pasta ou apagar se tiver um arquivo aberto dentro da pasta.... ele vai dar erro "WinError 5" pois o windows não permite apagar ou mover arquivos enquanto eles estão abertos
+The script will not move the folder or delete if there is a file open inside the folder.... it will give error "WinError 5" because windows does not allow deleting or moving files while they are open.
 
 ![Captura de tela de 2023-08-09 15-12-58](https://github.com/solitario001/dir-atomizer/assets/36905390/3a08922a-b5b0-4464-8a21-e496c5d64232)
 ![Opera Snapshot_2023-08-09_160538_stackoverflow com](https://github.com/solitario001/dir-atomizer/assets/36905390/0a52695c-967b-4c03-9e1b-df8fbbddf2f3)
 
-não inicie o script antes de configurar os caminhos e memoria ou ele vai dar erro "WinError 3"fazendo isso com ele aberto... isso não acontece no Linux, esse erro acontece no windows quando você configura primeiro a memoria antes dos caminhos de origem e destino... preciso de mais pesquisa para concertar isso.
+Do not start the script before configuring the paths and memory or it will give error "WinError 3" doing this with it open... this does not happen in Linux, this error happens in windows when you first configure the memory before the source paths and fate... I need more research to fix this.
 
 ![WinError 3](https://github.com/solitario001/dir-atomizer/assets/36905390/f19a8ec8-9261-44a9-a03f-2edcafb13c4d)
 
