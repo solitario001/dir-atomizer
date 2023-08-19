@@ -69,6 +69,6 @@ Demonstração de Funcionamento
 
 aqui quero quê move a pasta toda vez quê atingir 60gb então se eu quero quê ele move quando tiver 60gb eu preciso de colocar o dobro quê é 120gb e converter para 120000000000 Bytes porquê o script só faz leitura de memoria como bytes, 120000000000 Bytes para o script é 60gb. 
 
+<video src= 'https://youtu.be/NltIs4245Gg' width=720/>
 
-https://github.com/solitario001/dir-atomizer/assets/36905390/23adf78b-bebb-4099-81f8-75baa3fa37f1
 
