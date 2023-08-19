@@ -38,7 +38,7 @@ dst.txt é para onde vai os arquivos movidos da pasta de origem do caminho src.t
 ![Captura de tela de 2023-08-17 17-48-51](https://github.com/solitario001/dir-atomizer/assets/36905390/2f82114b-f9d4-4926-b39d-55a5cfeb9892)
 ![Captura de tela de 2023-08-18 19-07-37](https://github.com/solitario001/dir-atomizer/assets/36905390/021081dc-88fc-45f5-b829-e3fe130754e4)
 
-memory.txt aqui você salva a quantidade x de dados quê você quer mover a pasta, exemplo: se eu colocar 100mb toda vez que atingir 100mb vai mover a pasta., Atenção o programa funciona lendo a memoria em bytes não 
+memory.txt aqui você salva a quantidade x de dados quê você quer mover a pasta, exemplo: se eu colocar 60gb toda vez que atingir 60gb vai mover a pasta., Atenção o programa funciona lendo a memoria em bytes não em Megabytes ou Gigabytes, então se eu quero quê ele move quando tiver 60gb eu preciso de colocar o dobro quê é 120gb e converter para 120000000000 Bytes 
 
 ![Captura de tela de 2023-08-17 17-43-26](https://github.com/solitario001/dir-atomizer/assets/36905390/7bf5e19c-000d-453e-a859-1ba556d9d8c3)
 ![Captura de tela de 2023-08-18 19-33-07](https://github.com/solitario001/dir-atomizer/assets/36905390/1469b164-86ba-4d6d-8021-cf9a4046b034)
