@@ -58,6 +58,7 @@ Atenção> Usuarios Windows:
 o script não vai mover a pasta ou apagar se tiver um arquivo aberto dentro da pasta.... ele vai dar erro "WinError 5" pois o windows não permite apagar ou mover arquivos enquanto eles estão abertos
 
 ![Captura de tela de 2023-08-09 15-12-58](https://github.com/solitario001/dir-atomizer/assets/36905390/3a08922a-b5b0-4464-8a21-e496c5d64232)
+![Opera Snapshot_2023-08-09_160538_stackoverflow com](https://github.com/solitario001/dir-atomizer/assets/36905390/0a52695c-967b-4c03-9e1b-df8fbbddf2f3)
 
 não inicie o script antes de configurar os caminhos e memoria ou ele vai dar erro "WinError 3"fazendo isso com ele aberto... isso não acontece no Linux, esse erro acontece no windows quando você configura primeiro a memoria antes dos caminhos de origem e destino... preciso de mais pesquisa para concertar isso.
 
