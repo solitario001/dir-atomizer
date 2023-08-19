@@ -1,7 +1,7 @@
 # dir-atomizer
 
-<br />Small script that will move the chosen source folder when it reaches x size to the destination folder, when the folder reaches x size again the script will delete the old moved folder and move the new source folder again.,<br /> 
-<br />I created this program in order to move the recorded videos <br />from the surveillance camera to a new location when it reached size x and when it reached size again it would delete the old videos for me.the time to delete the old videos it 's time to reach x size again , so if I move the files with 10GB when the folder reaches 10GB again , it will delete the old files automatically
+<br />Small script that will move the chosen source folder when it reaches x size to the destination folder, when the folder reaches x size again the script will delete the old moved folder and move the new source folder again.<br /> 
+<br />I created this program in order to move the recorded videos from the surveillance camera to a new location when it reached size x and when it reached size again it would delete the old videos for me.<br /> <br />the time to delete the old videos it 's time to reach x size again , so if I move the files with 10GB when the folder reaches 10GB again, it will delete the old files automatically.
 
 
 Requirements:
