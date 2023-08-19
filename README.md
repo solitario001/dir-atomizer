@@ -38,15 +38,16 @@ dst.txt is where files moved from the src.txt path's source folder go.
 ![Captura de tela de 2023-08-18 19-07-37](https://github.com/solitario001/dir-atomizer/assets/36905390/021081dc-88fc-45f5-b829-e3fe130754e4)
 
 memory.txt here you save the x amount of data you want to move the folder, example: if I put 60gb every time I reach 60gb it will move the folder. Attention the program works by reading the memory in bytes not in Megabytes or Gigabytes, so if I want it to move when it reach 60gb I need to put twice as much which is 120gb and convert it to 120000000000 Bytes
+
 ![Captura de tela de 2023-08-17 17-43-26](https://github.com/solitario001/dir-atomizer/assets/36905390/7bf5e19c-000d-453e-a859-1ba556d9d8c3)
 ![Captura de tela de 2023-08-18 19-33-07](https://github.com/solitario001/dir-atomizer/assets/36905390/1469b164-86ba-4d6d-8021-cf9a4046b034)
 
 
 the gui is completely optional, it only serves to create the paths and memory .txt you can create these files yourself with your settings,.
 
-o gui vai variar os botões conforme a versão do windows, preciso criar uma versão separada para cada versão de sistema operacional para evitar discrepância no layout do gui.
+the gui will vary the buttons according to the windows version, i need to create a separate version for each operating system version to avoid discrepancy in the gui layout.
 
-o script vai rodar em modo furtivo, você só vai conseguir visualizar ele no gerenciador de tarefas,se ele dar erro vai fechar silenciosamente não vai ter nenhum avizo sonoro ou visual de funcionamento, porquê eu não queria quê ele ficasse a vista de olhos curiosos enquanto esta em execução e também não incomodar o usuario final pois ele não minimiza para o tray .
+the script will run in stealth mode, you will only be able to view it in the task manager, if it gives an error it will close silently, there will be no sound or visual warning of operation, because I did not want it to be visible to prying eyes while it's running and also doesn't bother the end user because it doesn't minimize to the tray.
 
 ![Sem título](https://github.com/solitario001/dir-atomizer/assets/36905390/11504856-15d4-4745-8ac7-4c90d92d859f)
 
