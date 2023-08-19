@@ -38,6 +38,7 @@ dst.txt Is where files moved from the src.txt path's source folder go.
 ![Captura de tela de 2023-08-18 19-07-37](https://github.com/solitario001/dir-atomizer/assets/36905390/021081dc-88fc-45f5-b829-e3fe130754e4)
 
 memory.txt Here you save the x amount of data you want to move the folder, example: if I put 60gb every time I reach 60gb it will move the folder.<br  />
+
 Attention the program works by reading the memory in bytes not in Megabytes or Gigabytes, so if I want it to move when it reach 60gb I need to put twice as much which is 120gb and convert it to 120000000000 Bytes.
 
 ![Captura de tela de 2023-08-17 17-43-26](https://github.com/solitario001/dir-atomizer/assets/36905390/7bf5e19c-000d-453e-a859-1ba556d9d8c3)
