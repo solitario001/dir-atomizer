@@ -37,13 +37,12 @@ dst.txt is where files moved from the src.txt path's source folder go.
 ![Captura de tela de 2023-08-17 17-48-51](https://github.com/solitario001/dir-atomizer/assets/36905390/2f82114b-f9d4-4926-b39d-55a5cfeb9892)
 ![Captura de tela de 2023-08-18 19-07-37](https://github.com/solitario001/dir-atomizer/assets/36905390/021081dc-88fc-45f5-b829-e3fe130754e4)
 
-memory.txt aqui você salva a quantidade x de dados quê você quer mover a pasta, exemplo: se eu colocar 60gb toda vez que atingir 60gb vai mover a pasta., Atenção o programa funciona lendo a memoria em bytes não em Megabytes ou Gigabytes, então se eu quero quê ele move quando tiver 60gb eu preciso de colocar o dobro quê é 120gb e converter para 120000000000 Bytes 
-
+memory.txt here you save the x amount of data you want to move the folder, example: if I put 60gb every time I reach 60gb it will move the folder. Attention the program works by reading the memory in bytes not in Megabytes or Gigabytes, so if I want it to move when it reach 60gb I need to put twice as much which is 120gb and convert it to 120000000000 Bytes
 ![Captura de tela de 2023-08-17 17-43-26](https://github.com/solitario001/dir-atomizer/assets/36905390/7bf5e19c-000d-453e-a859-1ba556d9d8c3)
 ![Captura de tela de 2023-08-18 19-33-07](https://github.com/solitario001/dir-atomizer/assets/36905390/1469b164-86ba-4d6d-8021-cf9a4046b034)
 
 
-o gui e totalmente opcional, serve apena para criar os caminhos e memoria .txt você mesmo pode criar esse arquivos com suas configurações,.
+the gui is completely optional, it only serves to create the paths and memory .txt you can create these files yourself with your settings,.
 
 o gui vai variar os botões conforme a versão do windows, preciso criar uma versão separada para cada versão de sistema operacional para evitar discrepância no layout do gui.
 
