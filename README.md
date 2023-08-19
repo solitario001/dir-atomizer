@@ -67,8 +67,8 @@ não inicie o script antes de configurar os caminhos e memoria ou ele vai dar er
 
 Demonstração de Funcionamento
 
-aqui quero quê move a pasta toda vez quê atingir 60gb então se eu quero quê ele move quando tiver 60gb eu preciso de colocar o dobro quê é 120gb e converter para 120000000000 Bytes porquê o script só faz leitura de memoria como bytes, 120000000000 Bytes para o script é 60gb. 
+aqui quero quê move a pasta toda vez quê atingir 60gb então se eu quero quê ele move quando tiver 60gb eu preciso de colocar o dobro quê é 120gb e converter para 120000000000 Bytes porquê o script só faz leitura de memoria como bytes, 120000000000 Bytes para o script é 60gb., video abaixo monstrando o funcionamento do script. 
 
-<video src= 'https://youtu.be/NltIs4245Gg' width=720/>
+[![Watch the video](https://img.youtube.com/vi/NltIs4245Gg/maxresdefault.jpg)](https://youtu.be/NltIs4245Gg)
 
 
